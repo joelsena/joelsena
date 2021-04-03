@@ -1,10 +1,10 @@
 ### Hi there, I'm Joel 👋
 
+<img align='right' src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="256">
+
 [![Linkedin: joel-sena](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joel-sena/)](https://www.linkedin.com/in/joel-sena/)
 [![Profile Summary](https://img.shields.io/badge/-Profile%20Summary-222222?style=flat-square&logo=ghost&logoColor=white&link=https://profile-summary-for-github.com/user/joelsena)](https://profile-summary-for-github.com/user/joelsena)
 [![Gmail Badge](https://img.shields.io/badge/-joel.sena229@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joel.sena229@gmail.com)](mailto:joel.sena229@gmail.com)
-
-<img align='right' src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="240">
 
 ### Technology Stacks 🐱‍👤💻
 
