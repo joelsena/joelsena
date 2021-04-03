@@ -1,6 +1,6 @@
 ### Hi there, I'm Joel 👋
 
-<img align='right' src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="256">
+<img align='right' src="https://media.giphy.com/media/B58qxazWfT1du/giphy.gif" width="248">
 
 [![Linkedin: joel-sena](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joel-sena/)](https://www.linkedin.com/in/joel-sena/)
 [![Profile Summary](https://img.shields.io/badge/-Profile%20Summary-222222?style=flat-square&logo=ghost&logoColor=white&link=https://profile-summary-for-github.com/user/joelsena)](https://profile-summary-for-github.com/user/joelsena)
@@ -21,6 +21,7 @@
 <br>
 
 ## &#x1f4c8; GitHub Stats
+<img align='right' src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="248">
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=joelsena&show_icons=true&count_private=true&theme=dracula)
 
