@@ -5,6 +5,7 @@
 [![Linkedin: joel-sena](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joel-sena/)](https://www.linkedin.com/in/joel-sena/)
 [![Profile Summary](https://img.shields.io/badge/-Profile%20Summary-222222?style=flat-square&logo=ghost&logoColor=white&link=https://profile-summary-for-github.com/user/joelsena)](https://profile-summary-for-github.com/user/joelsena)
 [![Gmail Badge](https://img.shields.io/badge/-joel.sena229@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joel.sena229@gmail.com)](mailto:joel.sena229@gmail.com)
+[![Rocketseat](https://img.shields.io/badge/%F0%9F%9A%80-Rocketseat-blueviolet?style=for-the-badge)](https://app.rocketseat.com.br/me/joel-sena-04942)
 
 ### Technology Stacks 🐱‍👤💻
 
