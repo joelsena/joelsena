@@ -1,6 +1,6 @@
-<h1 align="left">Hi there!! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Joel Sena</h1>
+<h1 align="left">Hi there!! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">, I'm Joel Sena</h1>
 
-<img align='right' src="https://media.giphy.com/media/B58qxazWfT1du/giphy.gif" width="280">
+<img align='right' src="https://media.giphy.com/media/B58qxazWfT1du/giphy.gif">
 
 [![Linkedin: joel-sena](https://img.shields.io/badge/-Linkedin-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joel-sena/)](https://www.linkedin.com/in/joel-sena/)
 [![Profile Summary](https://img.shields.io/badge/-Profile%20Summary-222222?logo=ghost&logoColor=white&link=https://profile-summary-for-github.com/user/joelsena)](https://profile-summary-for-github.com/user/joelsena)
@@ -20,7 +20,7 @@
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
-<img align='right' src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="280em">
+<img align='right' alt="gorila coding" src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" >
 
 <p align="left">
 <img width="480em" src="https://github-readme-stats.vercel.app/api?username=joelsena&show_icons=true&theme=dracula" alt="joel's stats"/>
