@@ -21,10 +21,12 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<img align="right" alt="gorila coding" src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="300" >
-
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=joelsena&show_icons=true&theme=dracula" alt="joel's stats"/>
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelsena&layout=compact&theme=dracula" alt="joel's most languages"/>
+<img width="412em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelsena&layout=compact&theme=dracula" alt="joel's most languages"/>
 </div>
 
+<div style="display:flex">
+<img alt="gorila coding" src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="400px" >
+<img alt="gorila coding" src="https://media1.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e47c5myee4ysu72ssyh6oozkteg455w9ocmhtl5f14x&rid=giphy.gif&ct=g" width="400px" >
+</div>
