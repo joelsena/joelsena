@@ -21,7 +21,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left" width="100%">
+<p float="left">
 <img width="400px" src="https://github-readme-stats.vercel.app/api?username=joelsena&show_icons=true&theme=dracula" alt="joel's stats"/>
 <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelsena&layout=compact&theme=dracula" alt="joel's most languages"/>
 </p>
