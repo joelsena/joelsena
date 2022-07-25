@@ -30,3 +30,4 @@
 <img alt="gorila coding" src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="400px" >
 <img alt="doggo coding" src="https://media1.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e47c5myee4ysu72ssyh6oozkteg455w9ocmhtl5f14x&rid=giphy.gif&ct=g" width="400px" >
 </div>
+![](https://komarev.com/ghpvc/?username=joelsena&label=📈+You+are+visitor+number&color=green)
